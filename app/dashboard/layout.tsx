@@ -17,3 +17,10 @@ export default function DashboardLayout({
   );
 }
 */}
+export default function DashboardPages() {
+    return (
+      <div>
+        <h1>ようこそ ダッシュボードページ！</h1>
+      </div>
+    );
+  }
