@@ -1,4 +1,4 @@
-import SideNav from '@/app/ui/dashboard/sidenav';
+{/*import SideNav from '@/app/ui/dashboard/sidenav';
 
 export default function DashboardLayout({
   children,
@@ -16,3 +16,4 @@ export default function DashboardLayout({
     </div>
   );
 }
+*/}
